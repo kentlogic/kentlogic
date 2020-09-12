@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋, my name is Vincent.
+![](https://images.unsplash.com/photo-1512149673953-1e251807ec7c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60)
 
-<!--
-**kentlogic/kentlogic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Android Developer | Web developer 
 
-Here are some ideas to get you started:
+[![Vincent's github stats](https://github-readme-stats.vercel.app/api?username=kentlogic)](https://github.com/kentlogic/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Android Development:
+   - Kotlin | Retrofit | Jetpack | RxKotlin | MVVM 
+
+Web Development
+   - HTML | CSS | JavaScript | NodeJS | React | Python | Django
+
+ DB
+   - PostgreSQL
+
+
