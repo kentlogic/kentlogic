@@ -5,13 +5,17 @@ Android Developer | Web developer
 
 [![Vincent's github stats](https://github-readme-stats.vercel.app/api?username=kentlogic)](https://github.com/kentlogic/github-readme-stats)
 
-Android Development:
-   - Kotlin | Retrofit | Jetpack | RxKotlin | MVVM 
+Native Android Development:
+   - Kotlin | MVVM
+
+Multiplatform Development
+   - Flutter | BLoC
 
 Web Development
    - HTML | CSS | JavaScript | NodeJS | React | Python | Django
 
  DB
    - PostgreSQL
+   - SQLite
 
 
